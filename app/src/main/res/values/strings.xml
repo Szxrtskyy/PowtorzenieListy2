@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daa</string>
+    <string-array name="swieta">
+        <item>Boże narodzenie</item>
+        <item>Wielkanoc</item>
+        <item>Mikołajki</item>
+        <item>Wszystkich swietych</item>
+    </string-array>
+</resources>
